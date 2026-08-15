@@ -20,7 +20,7 @@ print(Student)
 Student["course"] = "Data Science"
 print(Student)
 
-# Removing a key-value pair from the dictionary using the del statement
+# Removing a key-value pair from the dictionary 
 Student.pop("course")
 print(Student)
 
