@@ -9,3 +9,15 @@ def greet(name):
 greet("John")
 
 greet("Alice")
+
+# returning values from a function
+def add(a , b ):
+    return a + b
+result = add(2 , 3)
+print (result)
+
+def square(num):
+    return num* num
+
+ans = square(5 )
+print(ans)
