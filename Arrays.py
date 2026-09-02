@@ -1,0 +1,13 @@
+import numpy as np
+arr = np.array([1, 2, 3, 4, 5])
+print(arr)
+print(np.zeros((2, 3)))
+print(np.ones((2, 3)))
+print(np.full((2, 3), 6))
+print(np.arange(1, 10, 2))
+print(np.linspace(0, 1, 5))
+print(np.eye(3))
+print(np.diag([1, 2, 3]))
+print(np.array([1, 2, 3], dtype=float))
+arr = np.array([1.2 , 2.4, 3.4])
+print(arr.astype(int))
