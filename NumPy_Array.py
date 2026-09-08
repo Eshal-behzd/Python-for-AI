@@ -1,5 +1,5 @@
 import numpy as np
-arr = np.array([
+arr = np.array([ 
     [1, 20, 3],
     [4, 43, 5],
     [46, 56, 62]
