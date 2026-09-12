@@ -1,0 +1,11 @@
+Date,Product,Category,Quantity,Price,TotalSales,City,profit
+2026-01-05,Laptop,Electronics,2,800,1600,New York,160
+2026-01-08,Mouse,Electronics,5,25,125,Chicago,12.5
+2026-01-12,Chair,Furniture,3,120,360,Houston,36
+2026-01-15,Keyboard,Electronics,4,45,180,Boston,18
+2026-01-20,Desk,Furniture,2,250,500,Phoenix,50
+2026-01-25,Monitor,Electronics,3,200,600,Chicago,60
+2026-02-02,Notebook,Stationery,10,5,50,New York,5
+2026-02-10,Printer,Electronics,1,300,300,Houston,0
+2026-02-18,Desk Lamp,Furniture,4,35,140,Boston,89
+2026-02-25,Pen,Stationery,20,2,40,Phoenix,79
